@@ -27,6 +27,7 @@ android {
         minSdkVersion 19
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
+    namespace 'com.modeste.flutter_bluetooth_serial'
     lintOptions {
         disable 'InvalidPackage'
     }
